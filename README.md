@@ -1,7 +1,7 @@
 # Display conexión Java
-#Práctica tres de Sistemas programables
+# Práctica tres de Sistemas programables
 
-#Descripción
+# Descripción
 
 Practica que utiliza una pantalla LCD para mostrar una serie de mensajes que serán enviados desde una interfaz realizada en
 java, también en la pantalla se mostrará la temperatura para lo cual se utilzó un sensor de temperatura LM35, en la misma 
@@ -14,10 +14,10 @@ donde se escribirá el mensaje que se mostrará en el LCD. El segundo botón nos
 botón permitirá desplegar la fehca y hora y el último botón nos permite regresar a la ventana principal en donde se despliega
 el mensaje de bienvenida. 
 
-#Archivos Incluidos
+# Archivos Incluidos
 
 
-#Información de contactos
+# Información de contactos
 
 Integrantes del equipo:
 -Ana Estefanía Mejía Rocha: estefania_23mejia@hotmail.com
